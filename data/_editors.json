@@ -1,18 +1,48 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Ryxenol7",
+        "link": "https://www.youtube.com/@Ryxenol7"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "MCSpaceyGuyy",
+        "link": "https://www.youtube.com/@MCSpaceyGuyy"
+    },
+     {
+        "role": "admin",
+        "name": "Rkx",
+        "link": "https://www.youtube.com/@Ryxenol7"
+    },
+       {
+        "role": "admin",
+        "name": "SlySlimeUK",
+        "link": "https://www.youtube.com/@SlySlimeUK"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Pan Polak",
+        "link": "https://www.youtube.com/@Ryxenol7"
+    },
+      {
+        "role": "helper",
+        "name": "Brick",
+        "link": "https://www.youtube.com/@Ryxenol7"
+    },
+      {
+        "role": "helper",
+        "name": "Brick",
+        "link": "https://www.youtube.com/@Ryxenol7"
+    },
+      {
+        "role": "helper",
+        "name": "Channelus",
+        "link": "https://www.youtube.com/@Ryxenol7"
+    },
+      {
+        "role": "helper",
+        "name": "2auce",
+        "link": "https://www.youtube.com/@2auce"
     },
     {
         "role": "trial",
